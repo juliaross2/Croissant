@@ -1,0 +1,17 @@
+body {
+  background-color: lavenderblush;
+}
+
+h1 {
+  text-align: center;
+  color: grey;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: plum;
+  font-weight: bold;
+}
